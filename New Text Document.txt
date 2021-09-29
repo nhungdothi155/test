@@ -13,7 +13,10 @@ He work, se how rks,  it not worksall
 I dont know it nto
 He work, se how rks,  it not works at all
 
+<<<<<<< HEAD
 I love him so much , why he does not know
 
 quote 2 :
 next commit
+=======
+>>>>>>> parent of f36a09b (add quote)
